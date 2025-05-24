@@ -1,0 +1,3 @@
+scipt() {
+    whoami
+}
