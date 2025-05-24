@@ -1,0 +1,4 @@
+script() { echo `
+which wget
+`
+}
