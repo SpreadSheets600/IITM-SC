@@ -38,6 +38,12 @@ Solutions to assignments are included for each corresponding week.
 - [WEEK 2](./Graded%20Assesment/W2-GA.md)
 - [WEEK 3](./Graded%20Assesment/W3-GA.md)
 
+### BPT
+
+[How To Solve Questions](https://www.youtube.com/watch?v=226TM_BDjHE)
+
+- [BPT 1](./BPT/BPT1/)
+
 ### GRPA
 
 - [WEEK 1](./GRPA/Week%201)
