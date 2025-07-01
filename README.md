@@ -43,6 +43,7 @@ Solutions to assignments are included for each corresponding week.
 [How To Solve Questions](https://www.youtube.com/watch?v=226TM_BDjHE)
 
 - [BPT 1](./BPT/BPT1/)
+- [BPT 2](./BPT/BPT2/)
 
 ### GRPA
 
