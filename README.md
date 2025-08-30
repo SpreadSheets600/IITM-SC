@@ -58,6 +58,16 @@ Solutions to assignments are included for each corresponding week.
 - [WEEK 2](./Notes/Week%202)
 - [WEEK 3](./Notes/Week%203)
 
+- [Quiz 1](./Notes/Quiz%201%20Notes.pdf)
+- [Quiz 2](./Notes/Quiz%202%20Notes.pdf)
+
+- [Week 1- 8](./Notes/Week%201%20-%208.pdf)
+
+- [BASH](./Notes/BASH-Cheatsheet.pdf)
+- [Regex](./Notes/Regex.pdf)
+- [Awk Sed](./Notes/Awk-Sed-Cheatsheet.pdf)
+- [CLI Editors](./Notes/CLI-Editors.pdf)
+
 ---
 
 ## 💬 Contact
